@@ -3,3 +3,4 @@ gem "rspec"
 gem "sinatra"
  
 gem "pry", :group => "development" 
+gem "hasie", :group => "development"
